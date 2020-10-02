@@ -31,6 +31,8 @@ x"><--<img src= "><details/open/ontoggle=alert(`mindbl0w@bugcrodninja.com`)>> --
 ---
 - [IDOR ~ bugbountywriteup](https://medium.com/bugbountywriteup/pii-leakage-via-idor-weak-passwordreset-full-account-takeover-58d159f88d73)
 ---
+- [XSS  ~ Alonnsoandres](https://medium.com/@alonnsoandres/25k-instagram-almost-xss-filter-link-facebook-bug-bounty-798b10c13b83)
+---
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
