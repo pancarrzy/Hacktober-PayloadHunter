@@ -27,6 +27,7 @@ x"><--<img src= "><details/open/ontoggle=alert(`mindbl0w@bugcrodninja.com`)>> --
 ##### No Rate Limiting to Bypass Phone Verification
 - [Account Takeover ~ Yasuyadav](https://medium.com/@vasuyadav0786/5-ways-to-do-ato-in-a-single-website-cfe7e5da987e)
 ---
+- [Parameter Tampering ~ Suneets1ngh](https://medium.com/@suneets1ngh/parameter-tampering-ddd9b3de0da8)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
