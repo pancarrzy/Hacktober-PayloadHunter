@@ -23,6 +23,10 @@ x"><--<img src= "><details/open/ontoggle=alert(`mindbl0w@bugcrodninja.com`)>> --
 ```
 ---
 
+## Writeup List
+##### No Rate Limiting to Bypass Phone Verification
+- [Account Takeover ~ Yasuyadav](https://medium.com/@vasuyadav0786/5-ways-to-do-ato-in-a-single-website-cfe7e5da987e)
+---
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
